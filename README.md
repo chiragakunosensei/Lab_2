@@ -32,7 +32,10 @@ Search for and download the following data from [PASDA
     government. A municipality may be a city, town, borough, village, or
     something else, with different states having slightly different
     terminology.
-  - The Philadelphia Streets Centerline 2016 data contributed by the
+
+There is a problem with the following data, so please download it from [Centerline Data (https://drive.google.com/file/d/1TRKfUIQvQgafHTuKOpEe7pHNNuOnXJxy/view?usp=sharing)](https://drive.google.com/file/d/1TRKfUIQvQgafHTuKOpEe7pHNNuOnXJxy/view?usp=sharing)
+
+The Philadelphia Streets Centerline 2016 data contributed by the
     City of Philadelphia.
 
 For the Natural Earth data, start at the [Natural Earth Features

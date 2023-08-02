@@ -550,26 +550,4 @@ the limitations of each.
 
 ## Deliverables
 
-**Turn in a report in the format described in the syllabus.**
-
-Be sure to include the map with four global projections.
-
-The **Introduction** section should state the research objective.
-
-The **Data and Methods** section should state the data sets used, from
-where those data were acquired, and the GIS operations employed.
-
-The **Results** section should state the results – a brief description
-of each of four global projections. The map should be cited in the text
-here (e.g. Figure 1).
-
-The **Discussion** section should discuss the purpose and applications
-of each projection, the cartographic properties each preserves or
-distorts, and the limitations of each. Refer to the ArcGIS [List of
-supported map
-projections](https://pro.arcgis.com/en/pro-app/help/mapping/properties/list-of-supported-map-projections.htm)
-for information, or investigate using other available sources, but make
-sure that your submission is entirely your own words.
-
-The **Tables and Figures** section should contain the map with the four
-global projections, with a caption. The map should be cited in the text.
+**Turn in a report in the format described in Canvas**
